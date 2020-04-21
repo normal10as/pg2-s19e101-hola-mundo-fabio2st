@@ -1,0 +1,13 @@
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\bin\Debug\netcoreapp3.1\HolaMundoVb.exe
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\bin\Debug\netcoreapp3.1\HolaMundoVb.deps.json
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\bin\Debug\netcoreapp3.1\HolaMundoVb.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\bin\Debug\netcoreapp3.1\HolaMundoVb.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\bin\Debug\netcoreapp3.1\HolaMundoVb.dll
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\bin\Debug\netcoreapp3.1\HolaMundoVb.pdb
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\obj\Debug\netcoreapp3.1\HolaMundoVb.vbprojAssemblyReference.cache
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\obj\Debug\netcoreapp3.1\HolaMundoVb.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\obj\Debug\netcoreapp3.1\HolaMundoVb.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\obj\Debug\netcoreapp3.1\HolaMundoVb.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\obj\Debug\netcoreapp3.1\HolaMundoVb.dll
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\obj\Debug\netcoreapp3.1\HolaMundoVb.pdb
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoVb\obj\Debug\netcoreapp3.1\HolaMundoVb.genruntimeconfig.cache

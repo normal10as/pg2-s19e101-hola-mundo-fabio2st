@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s19e101-hola-mundo-fabio2st\\HolaMundo\\HolaMundo\\HolaMundo.vbproj",
-      "projectName": "HolaMundo",
-      "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s19e101-hola-mundo-fabio2st\\HolaMundo\\HolaMundo\\HolaMundo.vbproj",
+      "projectUniqueName": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s19e101-hola-mundo-fabio2st\\HolaMundo\\HolaMundoVb\\HolaMundoVb.vbproj",
+      "projectName": "HolaMundoVb",
+      "projectPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s19e101-hola-mundo-fabio2st\\HolaMundo\\HolaMundoVb\\HolaMundoVb.vbproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s19e101-hola-mundo-fabio2st\\HolaMundo\\HolaMundo\\obj\\",
+      "outputPath": "E:\\Development\\visual studio 2019\\Programacion2\\2020\\pg2-s19e101-hola-mundo-fabio2st\\HolaMundo\\HolaMundoVb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
