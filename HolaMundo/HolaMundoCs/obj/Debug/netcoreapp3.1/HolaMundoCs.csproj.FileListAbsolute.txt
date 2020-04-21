@@ -1,0 +1,13 @@
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\bin\Debug\netcoreapp3.1\HolaMundoCs.exe
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\bin\Debug\netcoreapp3.1\HolaMundoCs.deps.json
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\bin\Debug\netcoreapp3.1\HolaMundoCs.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\bin\Debug\netcoreapp3.1\HolaMundoCs.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\bin\Debug\netcoreapp3.1\HolaMundoCs.dll
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\bin\Debug\netcoreapp3.1\HolaMundoCs.pdb
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\obj\Debug\netcoreapp3.1\HolaMundoCs.csprojAssemblyReference.cache
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\obj\Debug\netcoreapp3.1\HolaMundoCs.csproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\obj\Debug\netcoreapp3.1\HolaMundoCs.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\obj\Debug\netcoreapp3.1\HolaMundoCs.AssemblyInfo.cs
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\obj\Debug\netcoreapp3.1\HolaMundoCs.dll
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\obj\Debug\netcoreapp3.1\HolaMundoCs.pdb
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundoCs\obj\Debug\netcoreapp3.1\HolaMundoCs.genruntimeconfig.cache

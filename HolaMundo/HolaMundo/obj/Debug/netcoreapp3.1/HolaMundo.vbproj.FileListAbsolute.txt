@@ -1,0 +1,13 @@
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.exe
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.deps.json
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.runtimeconfig.json
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.runtimeconfig.dev.json
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.dll
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\bin\Debug\netcoreapp3.1\HolaMundo.pdb
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.vbprojAssemblyReference.cache
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.AssemblyInfoInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.AssemblyInfo.vb
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.dll
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.pdb
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.vbproj.CoreCompileInputs.cache
+E:\Development\visual studio 2019\Programacion2\2020\pg2-s19e101-hola-mundo-fabio2st\HolaMundo\HolaMundo\obj\Debug\netcoreapp3.1\HolaMundo.genruntimeconfig.cache
